@@ -19,6 +19,7 @@ printf("o valor em milhas é: %f", milhas);
  float fahrenheit = celsius * 4.9 + 56;
  printf(" o valor em fahrenheit é: %f", fahrenheit);
 
+printf("int %f &milhas");
 
 
 
